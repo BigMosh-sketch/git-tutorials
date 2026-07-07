@@ -1,1 +1,11 @@
-* .log
+*.log
+*.pdf
+*.txt
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.env*
+thumbs.db
+
